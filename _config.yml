@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Alok Kumar"
 title_separator          : "-"
 name                     : &name "Alok Kumar"
-description              : &description "PhD scholar at the Interdisciplinary Centre for Water Research, IISc Bangalore, working on sea level and hydrology"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD researcher in satellite geodesy and sea level at the Interdisciplinary Centre for Water Research (ICWaR), Indian Institute of Science, Bengaluru"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://akk8902.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Alok Kumar"
   pronouns         : # example: "she/her"  
-  bio              : "PhD scholar at the Interdisciplinary Centre for Water Research. Research on sea level and hydrology."
+  bio              : "PhD researcher in satellite geodesy and sea level. Studying sea level fingerprints and sea level budget closure."
   location         : "Bengaluru, India"
-  employer         : "Indian Institute of Science, Bangalore"
+  employer         : "Indian Institute of Science, Bengaluru"
   uri              : # URL
   email            : "alokk@iisc.ac.in"
 
